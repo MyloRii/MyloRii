@@ -15,7 +15,7 @@ My most used languages on GitHub:
 
 ![TopLangs](<https://github-readme-stats.vercel.app/api/top-langs/?username=MyloRii>)
 
-Check out my CV: [Andrii_Shumylo_QA_Automation_CV](<https://mylorii.github.io/my-cv/>)
+Check out my CV: [Andrii_Shumylo_QA_Automation_CV](<https://mylorii.github.io/new-cv>)
 
 ............................................................................................................................................................................
 
