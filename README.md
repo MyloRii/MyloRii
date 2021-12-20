@@ -16,11 +16,3 @@ My most used languages on GitHub:
 ![TopLangs](<https://github-readme-stats.vercel.app/api/top-langs/?username=MyloRii>)
 
 Check out my CV: [Andrii_Shumylo_QA_Automation_CV](<https://mylorii.github.io/new-cv>)
-
-............................................................................................................................................................................
-
-Interested in my hobbies?
-
-Check out my music on: [SoundCloud](<https://soundcloud.com/satellite-runner>)
-
-And my YouTube channel: [YouTube](<https://www.youtube.com/channel/UC9kgx_41P833y5aph2x2hUA>)
